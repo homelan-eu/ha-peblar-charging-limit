@@ -1,0 +1,14 @@
+{
+  "config": {
+    "abort": {
+      "peblar_not_loaded": "Set up the built-in Peblar integration first and make sure it is loaded.",
+      "single_instance_allowed": "This integration is already set up."
+    },
+    "step": {
+      "user": {
+        "title": "homelan.eu Peblar Charging Limit",
+        "description": "Adds the charger's user-defined charging limit to your existing Peblar device. It uses the connection of the built-in Peblar integration, so no credentials are needed."
+      }
+    }
+  }
+}

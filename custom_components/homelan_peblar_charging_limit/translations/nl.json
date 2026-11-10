@@ -1,0 +1,14 @@
+{
+  "config": {
+    "abort": {
+      "peblar_not_loaded": "Stel eerst de ingebouwde Peblar-integratie in en zorg dat die geladen is.",
+      "single_instance_allowed": "Deze integratie is al ingesteld."
+    },
+    "step": {
+      "user": {
+        "title": "homelan.eu Peblar Charging Limit",
+        "description": "Voegt de door de gebruiker ingestelde laadlimiet toe aan je bestaande Peblar-apparaat. Dit gebruikt de verbinding van de ingebouwde Peblar-integratie, dus er zijn geen inloggegevens nodig."
+      }
+    }
+  }
+}
