@@ -26,9 +26,13 @@ setting itself (see [discussion #5491](https://github.com/orgs/home-assistant/di
 
 ## Installation
 
-### HACS (custom repository)
+### HACS / Marketplace (custom repository)
 
-1. In HACS, open the menu (⋮) → **Custom repositories**.
+[![Open your Home Assistant instance and open this repository in the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=homelan-eu&repository=ha-peblar-charging-limit&category=integration)
+
+Or add it by hand:
+
+1. In HACS (the Marketplace since Home Assistant 2026.11), open the menu (⋮) → **Custom repositories**.
 2. Add `https://github.com/homelan-eu/ha-peblar-charging-limit` with type **Integration**.
 3. Install **homelan.eu Peblar Charging Limit** and restart Home Assistant.
 
@@ -40,7 +44,9 @@ setting itself (see [discussion #5491](https://github.com/orgs/home-assistant/di
 
 ### Set up
 
-**Settings → Devices & services → Add integration →
+[![Open your Home Assistant instance and start setting up this integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=homelan_peblar_charging_limit)
+
+Or by hand: **Settings → Devices & services → Add integration →
 homelan.eu Peblar Charging Limit**, then confirm.
 
 ## Important
